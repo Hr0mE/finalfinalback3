@@ -1,2 +1,4 @@
-# FINALY I DID IT
-So, its api for creating tasks and users, just mini-pet-pet-proj
+# Это пет-проект
+Он был написан в рамках семестрового курса изучения веб-программирования. 
+
+Использована архитектура MVC, реализация на Java Spring. 
